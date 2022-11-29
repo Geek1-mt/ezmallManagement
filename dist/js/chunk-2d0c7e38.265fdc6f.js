@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c7e38"],{5315:function(n,u,c){"use strict";c.r(u);var e=function(){var n=this,u=n._self._c;return u("div",[n._v(" 内容分类管理 ")])},t=[],l={},s=l,i=c("2877"),o=Object(i["a"])(s,e,t,!1,null,null,null);u["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-2d0c7e38.265fdc6f.js.map
